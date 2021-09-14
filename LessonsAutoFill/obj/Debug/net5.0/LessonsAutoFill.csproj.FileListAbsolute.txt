@@ -1,0 +1,16 @@
+C:\Users\bitddeveloper\RiderProjects\SchoolTeleggraBot\LessonsAutoFill\bin\Debug\net5.0\LessonsAutoFill.exe
+C:\Users\bitddeveloper\RiderProjects\SchoolTeleggraBot\LessonsAutoFill\bin\Debug\net5.0\LessonsAutoFill.deps.json
+C:\Users\bitddeveloper\RiderProjects\SchoolTeleggraBot\LessonsAutoFill\bin\Debug\net5.0\LessonsAutoFill.runtimeconfig.json
+C:\Users\bitddeveloper\RiderProjects\SchoolTeleggraBot\LessonsAutoFill\bin\Debug\net5.0\LessonsAutoFill.runtimeconfig.dev.json
+C:\Users\bitddeveloper\RiderProjects\SchoolTeleggraBot\LessonsAutoFill\bin\Debug\net5.0\LessonsAutoFill.dll
+C:\Users\bitddeveloper\RiderProjects\SchoolTeleggraBot\LessonsAutoFill\bin\Debug\net5.0\ref\LessonsAutoFill.dll
+C:\Users\bitddeveloper\RiderProjects\SchoolTeleggraBot\LessonsAutoFill\bin\Debug\net5.0\LessonsAutoFill.pdb
+C:\Users\bitddeveloper\RiderProjects\SchoolTeleggraBot\LessonsAutoFill\obj\Debug\net5.0\LessonsAutoFill.csprojAssemblyReference.cache
+C:\Users\bitddeveloper\RiderProjects\SchoolTeleggraBot\LessonsAutoFill\obj\Debug\net5.0\LessonsAutoFill.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bitddeveloper\RiderProjects\SchoolTeleggraBot\LessonsAutoFill\obj\Debug\net5.0\LessonsAutoFill.AssemblyInfoInputs.cache
+C:\Users\bitddeveloper\RiderProjects\SchoolTeleggraBot\LessonsAutoFill\obj\Debug\net5.0\LessonsAutoFill.AssemblyInfo.cs
+C:\Users\bitddeveloper\RiderProjects\SchoolTeleggraBot\LessonsAutoFill\obj\Debug\net5.0\LessonsAutoFill.csproj.CoreCompileInputs.cache
+C:\Users\bitddeveloper\RiderProjects\SchoolTeleggraBot\LessonsAutoFill\obj\Debug\net5.0\LessonsAutoFill.dll
+C:\Users\bitddeveloper\RiderProjects\SchoolTeleggraBot\LessonsAutoFill\obj\Debug\net5.0\ref\LessonsAutoFill.dll
+C:\Users\bitddeveloper\RiderProjects\SchoolTeleggraBot\LessonsAutoFill\obj\Debug\net5.0\LessonsAutoFill.pdb
+C:\Users\bitddeveloper\RiderProjects\SchoolTeleggraBot\LessonsAutoFill\obj\Debug\net5.0\LessonsAutoFill.genruntimeconfig.cache

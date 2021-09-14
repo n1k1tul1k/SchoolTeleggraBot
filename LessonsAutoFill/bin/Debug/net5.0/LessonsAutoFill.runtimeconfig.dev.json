@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\bitddeveloper\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\bitddeveloper\\.nuget\\packages"
+    ]
+  }
+}
